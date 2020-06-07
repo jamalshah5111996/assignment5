@@ -1,0 +1,92 @@
+.navbar{background-color:  #D3D3D3 !important;}
+.logo{height:55px ;
+width: 140px;}
+.name{font-weight: bold;
+font-size: 25px;
+color: black;
+text-shadow: 1px 1px 1px #6a6d9b;}
+.nav-link{font-weight: bold !important;
+color: black !important;}
+.int{font-weight: bold;
+font-size: 20px;
+text-align: center;
+padding-top: 15px;
+text-decoration: underline;}
+.div1{background-color: rgba(219, 219, 221, 0.918)}
+.paraint{font-style: italic;
+font-size: 15px;
+text-align: center;
+padding-top: 20px;}
+.paraintf{font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer{background-color: #D3D3D3;
+margin-top: -8px;}
+.footer h6{text-align: center;
+font-size: 15px;
+font-weight: bold;
+text-decoration: underline;
+font-style: italic;}
+.cpr{width:20px;
+height: 20px;}
+.au{font-weight: bold;
+text-align: center;
+padding-top: 15px;
+font-size: 18px;
+font-style: italic;
+color: black;
+text-decoration: underline;}
+.ab{background-color: rgba(222, 222, 224);}
+.cu{background-color: rgba(222, 222, 224);
+    margin-top: -24px;}
+    .cuc{padding-bottom: 68px;}
+.ftimg{width: 35px;
+height: 16px;}
+.paraintfa{font-style: italic;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 20px;
+padding-bottom: 20px;}
+.story{background-color: rgba(219, 219, 221, 0.918);
+margin-top: -8px;}
+.sth{font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 17px;
+    font-style: italic;
+    color: black;
+    text-decoration-line: overline;}
+.sttext{font-style: italic;
+    font-size: 15px;
+    text-align: start;
+    padding-top: 12px;
+text-align: center;}
+.sttextf{font-style: italic;
+    font-size: 15px;
+    text-align: start;
+    padding-top: 12px;
+    padding-bottom: 20px;
+text-align: center;}
+.cu1{background-color: rgba(222, 222, 224);}
+.cuh{font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+    font-style: italic;
+    color: black;
+    text-decoration: underline;}
+    .footerc{background-color: #D3D3D3;}
+        .footerc h6{text-align: center;
+            font-size: 15px;
+            font-weight: bold;
+            text-decoration: underline;
+            font-style: italic;}
+            
+.text-center{padding-top: 30px;
+padding-left: 5px;}
+.locimg{height: 45px;
+width: 45px;}
